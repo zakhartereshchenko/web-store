@@ -1,0 +1,462 @@
+{
+    "phones": [
+      {
+        "id": "1",
+        "name": "Iphone",
+        "model": "11",
+        "memory": "64",
+        "price": "500",
+        "image": "https://freepngimg.com/save/133296-11-apple-iphone-free-transparent-image-hq/710x710",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "2",
+        "name": "Iphone",
+        "model": "11",
+        "memory": "128",
+        "price": "550",
+        "image": "https://freepngimg.com/save/133296-11-apple-iphone-free-transparent-image-hq/710x710",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "3",
+        "name": "Iphone",
+        "model": "11",
+        "memory": "256",
+        "price": "600",
+        "image": "https://freepngimg.com/save/133296-11-apple-iphone-free-transparent-image-hq/710x710",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "4",
+        "name": "Iphone",
+        "model": "11 pro",
+        "memory": "64",
+        "price": "550",
+        "image": "https://icentrumsklep.pl/userdata/public/gfx/4656.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "5",
+        "name": "Iphone",
+        "model": "11 pro",
+        "memory": "128",
+        "price": "600",
+        "image": "https://icentrumsklep.pl/userdata/public/gfx/4656.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "6",
+        "name": "Iphone",
+        "model": "11 pro",
+        "memory": "256",
+        "price": "650",
+        "image": "https://icentrumsklep.pl/userdata/public/gfx/4656.png",
+        "sale": "0",
+        "amount": "5"
+      },
+
+      {
+        "id": "7",
+        "name": "Iphone",
+        "model": "12",
+        "memory": "64",
+        "price": "600",
+        "image": "https://static.doji.co/product/medias/smartphones/apple/iphone-12/1-front-back-blue.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "8",
+        "name": "Iphone",
+        "model": "12",
+        "memory": "128",
+        "price": "650",
+        "image": "https://static.doji.co/product/medias/smartphones/apple/iphone-12/1-front-back-blue.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "9",
+        "name": "Iphone",
+        "model": "12",
+        "memory": "256",
+        "price": "700",
+        "image": "https://static.doji.co/product/medias/smartphones/apple/iphone-12/1-front-back-blue.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "10",
+        "name": "Iphone",
+        "model": "12 pro",
+        "memory": "64",
+        "price": "650",
+        "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-12-pro-max-graphite-back.png?v=9166c13e",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "11",
+        "name": "Iphone",
+        "model": "12 pro",
+        "memory": "128",
+        "price": "700",
+        "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-12-pro-max-graphite-back.png?v=9166c13e",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "12",
+        "name": "Iphone",
+        "model": "12 pro",
+        "memory": "256",
+        "price": "750",
+        "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-12-pro-max-graphite-back.png?v=9166c13e",
+        "sale": "0",
+        "amount": "5"
+      },
+
+      {
+        "id": "13",
+        "name": "Iphone",
+        "model": "13",
+        "memory": "64",
+        "price": "700",
+        "image": "https://www.mobi-hub.co.uk/wp-content/uploads/back_front-green.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "14",
+        "name": "Iphone",
+        "model": "13",
+        "memory": "128",
+        "price": "750",
+        "image": "https://www.mobi-hub.co.uk/wp-content/uploads/back_front-green.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "15",
+        "name": "Iphone",
+        "model": "13",
+        "memory": "256",
+        "price": "800",
+        "image": "https://www.mobi-hub.co.uk/wp-content/uploads/back_front-green.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "16",
+        "name": "Iphone",
+        "model": "13 pro",
+        "memory": "64",
+        "price": "750",
+        "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-13-pro-max-graphite-back.png?v=9166c13e",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "17",
+        "name": "Iphone",
+        "model": "13 pro",
+        "memory": "128",
+        "price": "800",
+        "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-13-pro-max-graphite-back.png?v=9166c13e",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "18",
+        "name": "Iphone",
+        "model": "13 pro",
+        "memory": "256",
+        "price": "850",
+        "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-13-pro-max-graphite-back.png?v=9166c13e",
+        "sale": "0",
+        "amount": "5"
+      },
+
+      {
+        "id": "19",
+        "name": "Iphone",
+        "model": "14",
+        "memory": "64",
+        "price": "800",
+        "image": "https://applefix.pl/wp-content/uploads/2022/11/Naprawa-WiFi-iPhone-14-min-1.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "20",
+        "name": "Iphone",
+        "model": "14",
+        "memory": "128",
+        "price": "850",
+        "image": "https://applefix.pl/wp-content/uploads/2022/11/Naprawa-WiFi-iPhone-14-min-1.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "21",
+        "name": "Iphone",
+        "model": "14",
+        "memory": "256",
+        "price": "900",
+        "image": "https://applefix.pl/wp-content/uploads/2022/11/Naprawa-WiFi-iPhone-14-min-1.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "22",
+        "name": "Iphone",
+        "model": "14 pro",
+        "memory": "64",
+        "price": "850",
+        "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-14-pro-space-black.png?v=9166c13e",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "23",
+        "name": "Iphone",
+        "model": "14 pro",
+        "memory": "128",
+        "price": "900",
+        "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-14-pro-space-black.png?v=9166c13e",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "24",
+        "name": "Iphone",
+        "model": "14 pro",
+        "memory": "256",
+        "price": "950",
+        "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-14-pro-space-black.png?v=9166c13e",
+        "sale": "0",
+        "amount": "5"
+      },
+
+      {
+        "id": "25",
+        "name": "Iphone",
+        "model": "15",
+        "memory": "64",
+        "price": "1000",
+        "image": "https://www.aptronixindia.com/media/catalog/product/cache/e16cc9c2744816b243de32cfba0b1d13/i/p/iphone_15_pink_pdp_image_position-1__wwen-removebg-preview.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "26",
+        "name": "Iphone",
+        "model": "15",
+        "memory": "128",
+        "price": "1050",
+        "image": "https://www.aptronixindia.com/media/catalog/product/cache/e16cc9c2744816b243de32cfba0b1d13/i/p/iphone_15_pink_pdp_image_position-1__wwen-removebg-preview.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "27",
+        "name": "Iphone",
+        "model": "15",
+        "memory": "256",
+        "price": "1100",
+        "image": "https://www.aptronixindia.com/media/catalog/product/cache/e16cc9c2744816b243de32cfba0b1d13/i/p/iphone_15_pink_pdp_image_position-1__wwen-removebg-preview.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "28",
+        "name": "Iphone",
+        "model": "15 pro",
+        "memory": "64",
+        "price": "1050",
+        "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-15-pro-natural-titanium.png?v=9166c13e",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "29",
+        "name": "Iphone",
+        "model": "15 pro",
+        "memory": "128",
+        "price": "1100",
+        "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-15-pro-natural-titanium.png?v=9166c13e",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "30",
+        "name": "Iphone",
+        "model": "15 pro",
+        "memory": "256",
+        "price": "1200",
+        "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-15-pro-natural-titanium.png?v=9166c13e",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "31",
+        "name": "Xiaomi",
+        "model": "redmi 12",
+        "memory": "128",
+        "price": "700",
+        "image": "https://mi-home.pl/cdn/shop/files/10586_Redmi_12-black-6-1600px.png?v=1687446822&width=1445",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "32",
+        "name": "Xiaomi",
+        "model": "redmi 12",
+        "memory": "256",
+        "price": "800",
+        "image": "https://mi-home.pl/cdn/shop/files/10586_Redmi_12-black-6-1600px.png?v=1687446822&width=1445",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "33",
+        "name": "Xiaomi",
+        "model": "redmi 12",
+        "memory": "512",
+        "price": "900",
+        "image": "https://mi-home.pl/cdn/shop/files/10586_Redmi_12-black-6-1600px.png?v=1687446822&width=1445",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "34",
+        "name": "Samsung",
+        "model": "s23",
+        "memory": "128",
+        "price": "900",
+        "image": "https://www.mobi-hub.co.uk/wp-content/uploads/1-front-back-green-4.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "35",
+        "name": "Samsung",
+        "model": "s23",
+        "memory": "256",
+        "price": "1000",
+        "image": "https://www.mobi-hub.co.uk/wp-content/uploads/1-front-back-green-4.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "36",
+        "name": "Samsung",
+        "model": "z fold 5",
+        "memory": "256",
+        "price": "1000",
+        "image": "https://www.mobi-hub.co.uk/wp-content/uploads/z-fold-ice-blue.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "37",
+        "name": "Samsung",
+        "model": "z fold 5",
+        "memory": "512",
+        "price": "1150",
+        "image": "https://www.mobi-hub.co.uk/wp-content/uploads/z-fold-ice-blue.png",
+        "sale": "0",
+        "amount": "5"
+      },
+      {
+        "id": "38",
+        "name": "Samsung",
+        "model": "z fold 5",
+        "memory": "1024",
+        "price": "1200",
+        "image": "https://www.mobi-hub.co.uk/wp-content/uploads/z-fold-ice-blue.png",
+        "sale": "0",
+        "amount": "5"
+      }
+    ],
+    "filters":{
+        "brands":[
+          {
+            "id": "samsung",
+            "name": "samsung",
+            "label": "Samsung",
+            "isChecked": false,
+            "type": "brand"
+          },
+          {
+            "id": "iphone",
+            "name": "iphone",
+            "label": "Iphone",
+            "isChecked": false,
+            "type": "brand"
+          },
+          {
+            "id": "xiaomi",
+            "name": "xiaomi",
+            "label": "Xiaomi",
+            "isChecked": false,
+            "type": "brand"
+          }
+        ],
+        "storages":[
+          {
+            "id": "64",
+            "name": "64",
+            "label": "64gb",
+            "isChecked": false,
+            "type": "storage"
+          },
+          {
+            "id": "128",
+            "name": "128",
+            "label": "128gb",
+            "isChecked": false,
+            "type": "storage"
+          },
+          {
+            "id": "256",
+            "name": "256",
+            "label": "256gb",
+            "isChecked": false,
+            "type": "storage"
+          },
+          {
+            "id": "512",
+            "name": "512",
+            "label": "512gb",
+            "isChecked": false,
+            "type": "storage"
+          },
+          {
+            "id": "1024",
+            "name": "1024",
+            "label": "1TB",
+            "isChecked": false,
+            "type": "storage"
+          }
+        ]
+      },
+      "sortOptions":[
+        {
+          "id": "priceLow",
+          "value": "Sort by price ascending",
+          "label": "Sort by price ascending"
+        },
+        {
+          "id": "priceHigh",
+          "value": "Sort by price descending",
+          "label": "Sort by price descending"
+        }
+      ]
+}
